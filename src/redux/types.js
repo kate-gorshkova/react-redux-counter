@@ -1,0 +1,13 @@
+export const [
+    INCREMENT,
+    DECREMENT, 
+    CHANGE_THEME,
+    DISABLE_BUTTONS,
+    ENABLE_BUTTONS
+] = [
+    'INCREMENT', 
+    'DECREMENT',
+    'CHANGE_THEME',
+    'DISABLE_BUTTONS',
+    'ENABLE_BUTTONS'
+]
